@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(233, 230, 230);
+}
+h1,
+h2 {
+  text-align: left;
+}
+img {
+  width: 500px;
+  height: auto;
+  border-radius: 20px;
+}
+.border {
+  border: 1px solid black;
+  background-color: rgb(179, 177, 177);
+  border-radius: 20px;
+}
